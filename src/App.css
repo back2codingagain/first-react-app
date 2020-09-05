@@ -21,4 +21,13 @@
 .App-link {
   color: #61dafb;
 }
+.btn{
+  color: white;
+  background:blue;
+  cursor: pointer;
 
+}
+
+.btn:hover{
+  background:rebeccapurple;
+}
